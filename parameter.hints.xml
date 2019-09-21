@@ -10,5 +10,6 @@
       <blacklist language="SQL" />
     </blacklists>
     <option id="angular.show.names.for.all.args" value="true" />
+    <option id="php.show.names.for.all.args" value="true" />
   </component>
 </application>
