@@ -4,7 +4,7 @@
     <property name="created">2019-09-01T13:33:54</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.2.1.0.0</property>
-    <property name="modified">2019-09-20T21:14:26</property>
+    <property name="modified">2019-09-22T15:39:37</property>
     <property name="originalScheme">Ezh One</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -225,11 +225,23 @@
     <option name="DEFAULT_ENTITY" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_IDENTIFIER" baseAttributes="TEXT" />
     <option name="DEFAULT_INSTANCE_FIELD" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="DEFAULT_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="d09a66" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="DEFAULT_LABEL" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_METADATA" baseAttributes="TEXT" />
     <option name="DEFAULT_PREDEFINED_SYMBOL" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_STATIC_FIELD" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_STATIC_METHOD" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
+    <option name="DEFAULT_STRING">
+      <value>
+        <option name="FOREGROUND" value="88c8a0" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="DEFAULT_TAG" baseAttributes="TEXT" />
     <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR" baseAttributes="TEXT" />
     <option name="DELETED_TEXT_ATTRIBUTES">
