@@ -1,0 +1,22 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="remember" />
+      <item value="forget" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="ENGLISH" value="4" />
+        <entry key="RUSSIAN" value="2" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="primaryLanguage" value="RUSSIAN" />
+      </google-translate>
+    </option>
+    <option name="ignoreRegExp" value="" />
+  </component>
+</application>
