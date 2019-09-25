@@ -13,5 +13,10 @@
         </option>
       </configuration>
     </remote-server>
+    <remote-server name="Docker2" type="docker">
+      <configuration>
+        <option name="apiUrl" value="tcp://app-wekings:2375" />
+      </configuration>
+    </remote-server>
   </component>
 </application>
