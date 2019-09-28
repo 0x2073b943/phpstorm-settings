@@ -3,7 +3,7 @@
     <property name="created">2019-09-28T19:20:09</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.2.3.0.0</property>
-    <property name="modified">2019-09-28T19:21:50</property>
+    <property name="modified">2019-09-28T19:28:51</property>
     <property name="originalScheme">_@user_One Dark</property>
   </metaInfo>
   <colors>
@@ -544,6 +544,11 @@
         <option name="FOREGROUND" value="e06c75" />
       </value>
     </option>
+    <option name="DEFAULT_INSTANCE_METHOD">
+      <value>
+        <option name="FOREGROUND" value="abb2be" />
+      </value>
+    </option>
     <option name="DEFAULT_INTERFACE_NAME">
       <value>
         <option name="FOREGROUND" value="e5c07b" />
@@ -832,20 +837,17 @@
     </option>
     <option name="INLINE_PARAMETER_HINT">
       <value>
-        <option name="FOREGROUND" value="abb2bf" />
-        <option name="BACKGROUND" value="414855" />
+        <option name="FOREGROUND" value="6c6f71" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT_CURRENT">
       <value>
-        <option name="FOREGROUND" value="abb2bf" />
-        <option name="BACKGROUND" value="48709b" />
+        <option name="FOREGROUND" value="6c6f71" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
       <value>
-        <option name="FOREGROUND" value="abb2bf" />
-        <option name="BACKGROUND" value="5c6370" />
+        <option name="FOREGROUND" value="6c6f71" />
       </value>
     </option>
     <option name="IVAR">
@@ -1261,6 +1263,11 @@
     <option name="PHP_HEREDOC_ID">
       <value>
         <option name="FOREGROUND" value="c678dd" />
+      </value>
+    </option>
+    <option name="PHP_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="e4bf80" />
       </value>
     </option>
     <option name="PHP_PARAMETER">
