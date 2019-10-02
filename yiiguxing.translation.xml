@@ -1,14 +1,19 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="test Trying To Create Using Static Method" />
+      <item value="test Trying To Create Use Static Method" />
+      <item value="test Throws Exception When Trying To Create From Int That Is Zero" />
+      <item value="Trying To Create" />
+      <item value="ying To Create From" />
       <item value="Exception thrown if an argument does not match with the expected value" />
       <item value="remember" />
       <item value="forget" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="5" />
-        <entry key="RUSSIAN" value="3" />
+        <entry key="ENGLISH" value="10" />
+        <entry key="RUSSIAN" value="10" />
       </map>
     </option>
   </component>
