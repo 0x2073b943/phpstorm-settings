@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Exception thrown if an error which can only be found on runtime occurs." />
       <item value="test Trying To Create Using Static Method" />
       <item value="test Trying To Create Use Static Method" />
       <item value="test Throws Exception When Trying To Create From Int That Is Zero" />
@@ -12,8 +13,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="10" />
-        <entry key="RUSSIAN" value="10" />
+        <entry key="ENGLISH" value="11" />
+        <entry key="RUSSIAN" value="11" />
       </map>
     </option>
   </component>
