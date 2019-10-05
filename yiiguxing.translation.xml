@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="$identificator" />
       <item value="expression" />
       <item value="$precision" />
       <item value="Exception thrown if an error which can only be found on runtime occurs." />
@@ -16,7 +17,8 @@
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="13" />
-        <entry key="RUSSIAN" value="13" />
+        <entry key="RUSSIAN" value="14" />
+        <entry key="ROMANIAN" value="1" />
       </map>
     </option>
   </component>
