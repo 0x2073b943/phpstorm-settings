@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="$remove For Create" />
+      <item value="$except For Create" />
+      <item value="$exceptfor Create" />
+      <item value="except" />
       <item value="'created at', " />
       <item value="Object allready exist" />
       <item value="$identificator" />
@@ -18,8 +22,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="15" />
-        <entry key="RUSSIAN" value="15" />
+        <entry key="ENGLISH" value="19" />
+        <entry key="RUSSIAN" value="20" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>
