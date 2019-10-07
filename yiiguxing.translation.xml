@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The log cannot adding." />
+      <item value="The log cannot add." />
+      <item value="The log cannot insert." />
       <item value="get Count" />
       <item value="get Amount" />
       <item value="success" />
@@ -26,8 +29,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="24" />
-        <entry key="RUSSIAN" value="25" />
+        <entry key="ENGLISH" value="27" />
+        <entry key="RUSSIAN" value="27" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>
