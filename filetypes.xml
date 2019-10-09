@@ -4,6 +4,7 @@
       <removed_mapping pattern=".env.*" approved="true" type=".env file" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="JsonBodyParserMiddleware" type="PHP" />
       <mapping ext="csv___jb_old___" type="PLAIN_TEXT" />
       <mapping ext="stub" type="PLAIN_TEXT" />
       <mapping ext="log___jb_old___" type="PLAIN_TEXT" />
