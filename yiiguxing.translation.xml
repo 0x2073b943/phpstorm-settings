@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="prepare Data" />
+      <item value="prepea Data" />
+      <item value="Returns the violation at a given offset" />
       <item value="get Count" />
       <item value="get Amount" />
       <item value="Adds a record formatter" />
@@ -34,9 +37,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="33" />
+        <entry key="ENGLISH" value="36" />
         <entry key="DANISH" value="1" />
-        <entry key="RUSSIAN" value="33" />
+        <entry key="RUSSIAN" value="36" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>
