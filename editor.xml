@@ -1,5 +1,16 @@
 <application>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="14" />
+<<<<<<< HEAD
+=======
+    <option name="USE_LIGATURES" value="true" />
+  </component>
+  <component name="EditorSettings">
+    <option name="IS_FOLDING_OUTLINE_SHOWN" value="false" />
+    <option name="SHOW_BREADCRUMBS" value="false" />
+  </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\b(todo|fixme)\b.*" />
+>>>>>>> parent of e069ac6... PS-2019.2.3 <User@DESKTOP-O9QDQ8J Overwrite remote https://github.com/ezhikvg/phpstorm-settings.git to local
   </component>
 </application>

@@ -3,10 +3,21 @@
     <option name="visitedUrls">
       <list>
         <UrlAndUserName>
+<<<<<<< HEAD
           <option name="url" value="http://git.itertech.ru" />
           <option name="userName" value="uahaiduk" />
+=======
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="ezhikvg" />
+>>>>>>> parent of e069ac6... PS-2019.2.3 <User@DESKTOP-O9QDQ8J Overwrite remote https://github.com/ezhikvg/phpstorm-settings.git to local
         </UrlAndUserName>
       </list>
     </option>
   </component>
+<<<<<<< HEAD
+=======
+  <component name="VcsApplicationSettings">
+    <option name="SHOW_LST_GUTTER_MARKERS" value="false" />
+  </component>
+>>>>>>> parent of e069ac6... PS-2019.2.3 <User@DESKTOP-O9QDQ8J Overwrite remote https://github.com/ezhikvg/phpstorm-settings.git to local
 </application>

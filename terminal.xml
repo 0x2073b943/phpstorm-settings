@@ -1,5 +1,9 @@
 <application>
   <component name="TerminalOptionsProvider">
     <option name="myShellPath" value="C:\Program Files\Git\bin\sh.exe" />
+<<<<<<< HEAD
+=======
+    <option name="myTabName" value="SH" />
+>>>>>>> parent of e069ac6... PS-2019.2.3 <User@DESKTOP-O9QDQ8J Overwrite remote https://github.com/ezhikvg/phpstorm-settings.git to local
   </component>
 </application>
