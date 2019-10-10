@@ -1,16 +1,9 @@
 <scheme name="_@user_One Dark" version="142" parent_scheme="Darcula">
   <metaInfo>
-<<<<<<< HEAD
-    <property name="created">2019-10-10T15:58:22</property>
-    <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2019.2.3.0.0</property>
-    <property name="modified">2019-10-10T15:59:21</property>
-=======
     <property name="created">2019-09-28T17:50:36</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.2.3.0.0</property>
     <property name="modified">2019-09-28T17:58:24</property>
->>>>>>> parent of e069ac6... PS-2019.2.3 <User@DESKTOP-O9QDQ8J Overwrite remote https://github.com/ezhikvg/phpstorm-settings.git to local
     <property name="originalScheme">One Dark</property>
   </metaInfo>
   <colors>
@@ -90,16 +83,11 @@
         <option name="FOREGROUND" value="61afef" />
       </value>
     </option>
-<<<<<<< HEAD
-    <option name="BASH.HERE_DOC_END" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="BASH.HERE_DOC_START" baseAttributes="DEFAULT_KEYWORD" />
-=======
     <option name="BASH.FUNCTION_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
     <option name="BASH.HERE_DOC" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
     <option name="BASH.HERE_DOC_END" baseAttributes="DEFAULT_KEYWORD" />
     <option name="BASH.HERE_DOC_START" baseAttributes="DEFAULT_KEYWORD" />
     <option name="BASH.REDIRECTION" baseAttributes="DEFAULT_OPERATION_SIGN" />
->>>>>>> parent of e069ac6... PS-2019.2.3 <User@DESKTOP-O9QDQ8J Overwrite remote https://github.com/ezhikvg/phpstorm-settings.git to local
     <option name="BASH.SHEBANG">
       <value>
         <option name="FOREGROUND" value="5c6370" />
@@ -530,14 +518,11 @@
         <option name="FOREGROUND" value="d19a66" />
       </value>
     </option>
-<<<<<<< HEAD
-=======
     <option name="DEFAULT_DOC_MARKUP">
       <value>
         <option name="FOREGROUND" value="72c8a0" />
       </value>
     </option>
->>>>>>> parent of e069ac6... PS-2019.2.3 <User@DESKTOP-O9QDQ8J Overwrite remote https://github.com/ezhikvg/phpstorm-settings.git to local
     <option name="DEFAULT_ENTITY">
       <value>
         <option name="FOREGROUND" value="e06c75" />
@@ -573,11 +558,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-<<<<<<< HEAD
-        <option name="FOREGROUND" value="c678dd" />
-=======
         <option name="FOREGROUND" value="c786dc" />
->>>>>>> parent of e069ac6... PS-2019.2.3 <User@DESKTOP-O9QDQ8J Overwrite remote https://github.com/ezhikvg/phpstorm-settings.git to local
       </value>
     </option>
     <option name="DEFAULT_LABEL">
@@ -618,11 +599,7 @@
     <option name="DEFAULT_STATIC_METHOD" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="DEFAULT_STRING">
       <value>
-<<<<<<< HEAD
-        <option name="FOREGROUND" value="98c379" />
-=======
         <option name="FOREGROUND" value="72c8a0" />
->>>>>>> parent of e069ac6... PS-2019.2.3 <User@DESKTOP-O9QDQ8J Overwrite remote https://github.com/ezhikvg/phpstorm-settings.git to local
       </value>
     </option>
     <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR" baseAttributes="TEXT" />
@@ -856,28 +833,19 @@
     <option name="INLINE_PARAMETER_HINT">
       <value>
         <option name="FOREGROUND" value="abb2bf" />
-<<<<<<< HEAD
-=======
         <option name="BACKGROUND" value="414855" />
->>>>>>> parent of e069ac6... PS-2019.2.3 <User@DESKTOP-O9QDQ8J Overwrite remote https://github.com/ezhikvg/phpstorm-settings.git to local
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT_CURRENT">
       <value>
         <option name="FOREGROUND" value="abb2bf" />
-<<<<<<< HEAD
-=======
         <option name="BACKGROUND" value="48709b" />
->>>>>>> parent of e069ac6... PS-2019.2.3 <User@DESKTOP-O9QDQ8J Overwrite remote https://github.com/ezhikvg/phpstorm-settings.git to local
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
       <value>
         <option name="FOREGROUND" value="abb2bf" />
-<<<<<<< HEAD
-=======
         <option name="BACKGROUND" value="5c6370" />
->>>>>>> parent of e069ac6... PS-2019.2.3 <User@DESKTOP-O9QDQ8J Overwrite remote https://github.com/ezhikvg/phpstorm-settings.git to local
       </value>
     </option>
     <option name="IVAR">
@@ -1299,14 +1267,11 @@
     <option name="PHP_SCRIPTING_BACKGROUND">
       <value />
     </option>
-<<<<<<< HEAD
-=======
     <option name="PHP_TAG">
       <value>
         <option name="FOREGROUND" value="e06c75" />
       </value>
     </option>
->>>>>>> parent of e069ac6... PS-2019.2.3 <User@DESKTOP-O9QDQ8J Overwrite remote https://github.com/ezhikvg/phpstorm-settings.git to local
     <option name="PHP_VAR" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="" />
     <option name="PROPERTIES.KEY">
