@@ -1,9 +1,5 @@
 <application>
   <component name="EditorColorsManagerImpl">
-<<<<<<< HEAD
-    <global_color_scheme name="_@user_One Dark" />
-=======
-    <global_color_scheme name="One Dark main" />
->>>>>>> parent of e069ac6... PS-2019.2.3 <User@DESKTOP-O9QDQ8J Overwrite remote https://github.com/ezhikvg/phpstorm-settings.git to local
+    <global_color_scheme name="OneDark Ezh" />
   </component>
 </application>

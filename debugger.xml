@@ -1,13 +1,7 @@
 <application>
   <component name="XDebuggerSettings">
     <data-views />
-<<<<<<< HEAD
     <general />
-=======
-    <general>
-      <scroll-to-center>true</scroll-to-center>
-    </general>
->>>>>>> parent of e069ac6... PS-2019.2.3 <User@DESKTOP-O9QDQ8J Overwrite remote https://github.com/ezhikvg/phpstorm-settings.git to local
     <debuggers>
       <debugger id="javascript">
         <configuration>
