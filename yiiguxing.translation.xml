@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Response Emitter" />
       <item value="Handles a request and produces a response" />
       <item value="Action Payload" />
       <item value="Send the response the client" />
@@ -46,9 +47,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="44" />
+        <entry key="ENGLISH" value="45" />
         <entry key="DANISH" value="1" />
-        <entry key="RUSSIAN" value="44" />
+        <entry key="RUSSIAN" value="45" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="1" />
       </map>
