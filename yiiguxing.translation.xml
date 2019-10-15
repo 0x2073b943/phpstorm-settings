@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Creates and returns a Form instance from the type of the form." />
+      <item value="expire" />
+      <item value="Payload" />
+      <item value="Action Payload" />
+      <item value="Response Emitter" />
+      <item value="Handles a request and produces a response" />
+      <item value="Send the response the client" />
+      <item value="Example: Entire website down, database unavailable, etc. This should * trigger the SMS alerts and wake you up." />
+      <item value="Shutdown" />
+      <item value="Enable or disable the use of autowiring to guess injections" />
       <item value="$positions On Page" />
       <item value="$recipient Ip" />
       <item value="$receipt At" />
@@ -40,9 +50,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="38" />
+        <entry key="ENGLISH" value="49" />
         <entry key="DANISH" value="1" />
-        <entry key="RUSSIAN" value="38" />
+        <entry key="RUSSIAN" value="49" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="1" />
       </map>
