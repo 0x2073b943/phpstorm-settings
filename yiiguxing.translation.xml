@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="uncommitted file with local overrides" />
       <item value="restrict" />
       <item value="break" />
       <item value="Creates and returns a Form instance from the type of the form." />
@@ -52,9 +53,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="50" />
+        <entry key="ENGLISH" value="52" />
         <entry key="DANISH" value="1" />
-        <entry key="RUSSIAN" value="51" />
+        <entry key="RUSSIAN" value="52" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="1" />
       </map>
