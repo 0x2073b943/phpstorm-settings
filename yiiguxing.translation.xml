@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="prepare Meta For Back" />
       <item value="Name of default adapter" />
       <item value="uncommitted file with local overrides" />
       <item value="restrict" />
@@ -50,13 +51,12 @@
       <item value="ying To Create From" />
       <item value="Exception thrown if an argument does not match with the expected value" />
       <item value="remember" />
-      <item value="forget" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="54" />
+        <entry key="ENGLISH" value="55" />
         <entry key="DANISH" value="1" />
-        <entry key="RUSSIAN" value="54" />
+        <entry key="RUSSIAN" value="55" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="1" />
       </map>
