@@ -4,7 +4,7 @@
     <property name="created">2019-09-28T19:20:09</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.2.3.0.0</property>
-    <property name="modified">2019-12-12T10:38:57</property>
+    <property name="modified">2019-12-12T11:06:25</property>
     <property name="originalScheme">_@user_One Dark</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
@@ -51,7 +51,7 @@
     <option name="SELECTED_TEARLINE_COLOR" value="9b9fa4" />
     <option name="SELECTION_BACKGROUND" value="404859" />
     <option name="SEPARATOR_BELOW_COLOR" value="" />
-    <option name="TAB_UNDERLINE" value="a30034" />
+    <option name="TAB_UNDERLINE" value="" />
     <option name="TEARLINE_COLOR" value="6b6e73" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="335027" />
     <option name="VCS_ANNOTATIONS_COLOR_2" value="3e443c" />
