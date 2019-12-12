@@ -16,7 +16,4 @@
   <component name="TodoConfiguration">
     <pattern pattern="\b(todo|fixme)\b.*" />
   </component>
-  <component name="XmlEditorOptions">
-    <option name="tagTreeHighlightingLevelCount" value="1" />
-  </component>
 </application>
