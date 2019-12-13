@@ -1,7 +1,12 @@
 <application>
   <component name="InlayHintsSettings">
-    <option name="lastViewedProviderKeyId" value="js.type.hints" />
+    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
     <settingsMapElement>
+      <JavaScript.js.chain.hints>
+        <Settings>
+          <option name="uniqueTypeCount" value="1" />
+        </Settings>
+      </JavaScript.js.chain.hints>
       <JavaScript.js.type.hints>
         <Settings>
           <option name="showForFunctions" value="true" />
