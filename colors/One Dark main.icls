@@ -4,7 +4,7 @@
     <property name="created">2019-09-28T19:20:09</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.2.3.0.0</property>
-    <property name="modified">2019-12-12T11:06:25</property>
+    <property name="modified">2019-12-16T17:07:25</property>
     <property name="originalScheme">_@user_One Dark</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
@@ -279,7 +279,7 @@
     </option>
     <option name="CONSOLE_RED_BRIGHT_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="e06c75" />
+        <option name="FOREGROUND" value="994d4d" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
