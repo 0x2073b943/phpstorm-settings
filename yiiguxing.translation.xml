@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="as migrations classes should NOT be autoloaded" />
+      <item value="namespace is arbitrary but should be different from App\Migrations" />
       <item value="I forgot my password" />
       <item value="exec Result File Upload" />
       <item value="prepare Meta For Back" />
@@ -49,14 +51,12 @@
       <item value="test Trying To Create Using Static Method" />
       <item value="test Trying To Create Use Static Method" />
       <item value="test Throws Exception When Trying To Create From Int That Is Zero" />
-      <item value="Trying To Create" />
-      <item value="ying To Create From" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="58" />
+        <entry key="ENGLISH" value="60" />
         <entry key="DANISH" value="1" />
-        <entry key="RUSSIAN" value="59" />
+        <entry key="RUSSIAN" value="60" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="1" />
       </map>
