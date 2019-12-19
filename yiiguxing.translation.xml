@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="secure" />
       <item value="Creates a new instance from a given JWT payload." />
       <item value="This is important if, at any given point, sensitive information like * the plain-text password is stored on this object." />
       <item value="as migrations classes should NOT be autoloaded" />
@@ -50,13 +51,12 @@
       <item value="expression" />
       <item value="$precision" />
       <item value="Exception thrown if an error which can only be found on runtime occurs." />
-      <item value="test Trying To Create Using Static Method" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="62" />
+        <entry key="ENGLISH" value="63" />
         <entry key="DANISH" value="1" />
-        <entry key="RUSSIAN" value="62" />
+        <entry key="RUSSIAN" value="63" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="1" />
       </map>
