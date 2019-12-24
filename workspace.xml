@@ -10,8 +10,6 @@
       <JavaScript.js.type.hints>
         <Settings>
           <option name="showForFunctions" value="true" />
-          <option name="showForShorthandFunctions" value="true" />
-          <option name="showForVariablesAndFields" value="true" />
         </Settings>
       </JavaScript.js.type.hints>
     </settingsMapElement>
