@@ -9,8 +9,7 @@
       </JavaScript.js.chain.hints>
       <JavaScript.js.type.hints>
         <Settings>
-          <option name="showForFunctions" value="true" />
-          <option name="showForShorthandFunctions" value="true" />
+          <option name="showForInferredParameters" value="false" />
           <option name="showForVariablesAndFields" value="true" />
         </Settings>
       </JavaScript.js.type.hints>
