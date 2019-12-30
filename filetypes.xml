@@ -6,6 +6,7 @@
       <mapping pattern="JsonBodyParserMiddleware" type="PHP" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="q" type="PLAIN_TEXT" />
+      <mapping pattern="dd260a" type="PLAIN_TEXT" />
       <mapping ext="csv___jb_old___" type="PLAIN_TEXT" />
       <mapping ext="log___jb_old___" type="PLAIN_TEXT" />
       <mapping ext="stub" type="PLAIN_TEXT" />
