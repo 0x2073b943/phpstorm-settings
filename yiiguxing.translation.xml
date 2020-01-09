@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="authentication" />
       <item value="Removes sensitive data from the user" />
       <item value="valid" />
       <item value="handle" />
@@ -50,13 +51,12 @@
       <item value="$remove For Create" />
       <item value="$except For Create" />
       <item value="$exceptfor Create" />
-      <item value="except" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="69" />
+        <entry key="ENGLISH" value="70" />
         <entry key="DANISH" value="2" />
-        <entry key="RUSSIAN" value="69" />
+        <entry key="RUSSIAN" value="70" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="1" />
       </map>
