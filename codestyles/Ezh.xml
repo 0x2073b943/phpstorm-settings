@@ -23,7 +23,6 @@
     <option name="PHPDOC_USE_FQCN" value="true" />
   </PHPCodeStyleSettings>
   <yaml>
-    <option name="ALIGN_VALUES_PROPERTIES" value="1" />
     <option name="SEQUENCE_ON_NEW_LINE" value="true" />
     <option name="BLOCK_MAPPING_ON_NEW_LINE" value="true" />
   </yaml>
