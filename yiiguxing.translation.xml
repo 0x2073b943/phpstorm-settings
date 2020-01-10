@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Throwable is the base interface for any object that can be thrown via a throw statement in PHP 7" />
       <item value="height" />
       <item value="assignable" />
       <item value="view" />
@@ -50,13 +51,12 @@
       <item value="$exceptfor Create" />
       <item value="except" />
       <item value="'created at', " />
-      <item value="Object allready exist" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="68" />
+        <entry key="ENGLISH" value="69" />
         <entry key="DANISH" value="1" />
-        <entry key="RUSSIAN" value="68" />
+        <entry key="RUSSIAN" value="69" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="1" />
       </map>
