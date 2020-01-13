@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This should be the encoded password. On authentication, a plain-text * password will be salted, encoded, and then compared to this value." />
       <item value="patronymic" />
       <item value="height" />
       <item value="assignable" />
@@ -50,13 +51,12 @@
       <item value="$except For Create" />
       <item value="$exceptfor Create" />
       <item value="except" />
-      <item value="'created at', " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="70" />
+        <entry key="ENGLISH" value="71" />
         <entry key="DANISH" value="1" />
-        <entry key="RUSSIAN" value="70" />
+        <entry key="RUSSIAN" value="71" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="1" />
       </map>
