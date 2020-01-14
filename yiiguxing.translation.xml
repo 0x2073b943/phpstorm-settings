@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="RSA password to .env variable JWT_PASSPHRASE" />
+      <item value="Configure `.env.local` file" />
+      <item value="Configure" />
+      <item value="Replace `[my-app-name]` with the desired directory name for your new application. You'll want to" />
+      <item value="Ensure `logs/` is web writable" />
       <item value="but, you probably want this, unless you're building a single-page app" />
       <item value="authenticate" />
       <item value="This should be the encoded password. On authentication, a plain-text * password will be salted, encoded, and then compared to this value." />
@@ -46,17 +51,12 @@
       <item value="Finds an entry of the container by its identifier and returns it" />
       <item value="The log cannot adding." />
       <item value="The log cannot add." />
-      <item value="The log cannot insert." />
-      <item value="success" />
-      <item value="получатель" />
-      <item value="$remove For Create" />
-      <item value="$except For Create" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="73" />
+        <entry key="ENGLISH" value="78" />
         <entry key="DANISH" value="1" />
-        <entry key="RUSSIAN" value="73" />
+        <entry key="RUSSIAN" value="78" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="1" />
       </map>
