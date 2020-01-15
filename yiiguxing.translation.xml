@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="aa 855197 b 803277604299 e 41 c 192 f 686" />
       <item value="Options: '', static::ENCRYPTION_STARTTLS, or static::ENCRYPTION_SMTP" />
       <item value="Be aware that in PHP &gt;= 5.6 this requires that the server's certificates are valid" />
       <item value="Credentials Mismatch" />
@@ -50,13 +51,12 @@
       <item value="The log cannot add." />
       <item value="The log cannot insert." />
       <item value="success" />
-      <item value="получатель" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="75" />
+        <entry key="ENGLISH" value="76" />
         <entry key="DANISH" value="1" />
-        <entry key="RUSSIAN" value="75" />
+        <entry key="RUSSIAN" value="76" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="1" />
       </map>
