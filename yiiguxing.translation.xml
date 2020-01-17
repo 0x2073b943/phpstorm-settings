@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="find to name" />
+      <item value="find to id" />
       <item value="Sso sdk and api for creating user" />
       <item value="aa 855197 b 803277604299 e 41 c 192 f 686" />
       <item value="Options: '', static::ENCRYPTION_STARTTLS, or static::ENCRYPTION_SMTP" />
@@ -49,8 +51,6 @@
       <item value="Handler" />
       <item value="Finds an entry of the container by its identifier and returns it" />
       <item value="The log cannot adding." />
-      <item value="The log cannot add." />
-      <item value="The log cannot insert." />
     </histories>
     <option name="languageScores">
       <map>
