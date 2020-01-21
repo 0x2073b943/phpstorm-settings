@@ -56,9 +56,10 @@
       <map>
         <entry key="ENGLISH" value="77" />
         <entry key="DANISH" value="1" />
-        <entry key="RUSSIAN" value="78" />
+        <entry key="RUSSIAN" value="79" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="1" />
+        <entry key="YIDDISH" value="1" />
       </map>
     </option>
   </component>
