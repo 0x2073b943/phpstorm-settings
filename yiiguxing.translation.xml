@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="отчет" />
       <item value="unvisible Aside" />
       <item value="is visible" />
       <item value="visibled" />
@@ -50,13 +51,12 @@
       <item value="expire" />
       <item value="Payload" />
       <item value="Action Payload" />
-      <item value="Response Emitter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="95" />
+        <entry key="ENGLISH" value="96" />
         <entry key="DANISH" value="3" />
-        <entry key="RUSSIAN" value="95" />
+        <entry key="RUSSIAN" value="96" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="1" />
