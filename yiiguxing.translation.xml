@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="his is important if, at any given point, sensitive information like * the plain-text password is stored on this object." />
+      <item value="emoves sensitive data from the user" />
+      <item value="Returns the salt that was originally used to encode the password." />
       <item value="Data Replacer" />
       <item value="generate Report Data" />
       <item value="check-authentication" />
@@ -48,15 +51,12 @@
       <item value="namespace is arbitrary but should be different from App\Migrations" />
       <item value="I forgot my password" />
       <item value="exec Result File Upload" />
-      <item value="prepare Meta For Back" />
-      <item value="Name of default adapter" />
-      <item value="uncommitted file with local overrides" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="101" />
+        <entry key="ENGLISH" value="104" />
         <entry key="DANISH" value="3" />
-        <entry key="RUSSIAN" value="101" />
+        <entry key="RUSSIAN" value="104" />
         <entry key="FRENCH" value="2" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="1" />
