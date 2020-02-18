@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="конвертировать" />
+      <item value="handler" />
+      <item value="handle" />
+      <item value="hendle" />
+      <item value="hanlde" />
       <item value="Tamplater" />
       <item value="$parts" />
       <item value="обработчик" />
@@ -46,17 +51,12 @@
       <item value="Credentials Mismatch" />
       <item value="authenticate" />
       <item value="This should be the encoded password. On authentication, a plain-text * password will be salted, encoded, and then compared to this value." />
-      <item value="patronymic" />
-      <item value="height" />
-      <item value="assignable" />
-      <item value="view" />
-      <item value="to View" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="111" />
+        <entry key="ENGLISH" value="115" />
         <entry key="DANISH" value="3" />
-        <entry key="RUSSIAN" value="112" />
+        <entry key="RUSSIAN" value="115" />
         <entry key="FRENCH" value="2" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="1" />
