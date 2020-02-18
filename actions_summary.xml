@@ -53,16 +53,16 @@
         <entry key="$Undo">
           <value>
             <ActionSummary>
-              <option name="last" value="1582018142099" />
-              <option name="times" value="11" />
+              <option name="last" value="1582024613338" />
+              <option name="times" value="12" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="ActivateTerminalToolWindow">
           <value>
             <ActionSummary>
-              <option name="last" value="1582019856350" />
-              <option name="times" value="14" />
+              <option name="last" value="1582024564970" />
+              <option name="times" value="15" />
             </ActionSummary>
           </value>
         </entry>
@@ -253,8 +253,8 @@
         <entry key="Git.Pull">
           <value>
             <ActionSummary>
-              <option name="last" value="1582019054622" />
-              <option name="times" value="1" />
+              <option name="last" value="1582024595238" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
@@ -541,8 +541,8 @@
         <entry key="git4idea.ui.branch.GitBranchPopupActions$LocalBranchActions$CheckoutAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582019050057" />
-              <option name="times" value="2" />
+              <option name="last" value="1582024604207" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
