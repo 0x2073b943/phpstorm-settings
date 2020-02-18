@@ -61,8 +61,8 @@
         <entry key="ActivateTerminalToolWindow">
           <value>
             <ActionSummary>
-              <option name="last" value="1582017360179" />
-              <option name="times" value="12" />
+              <option name="last" value="1582019856350" />
+              <option name="times" value="14" />
             </ActionSummary>
           </value>
         </entry>
@@ -341,8 +341,8 @@
         <entry key="ShowSettings">
           <value>
             <ActionSummary>
-              <option name="last" value="1582010375485" />
-              <option name="times" value="16" />
+              <option name="last" value="1582020076171" />
+              <option name="times" value="17" />
             </ActionSummary>
           </value>
         </entry>
@@ -453,16 +453,16 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582017627322" />
-              <option name="times" value="9" />
+              <option name="last" value="1582019856654" />
+              <option name="times" value="11" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582018362791" />
-              <option name="times" value="46" />
+              <option name="last" value="1582019854774" />
+              <option name="times" value="50" />
             </ActionSummary>
           </value>
         </entry>
