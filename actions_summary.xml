@@ -101,8 +101,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1582099574564" />
-              <option name="times" value="463" />
+              <option name="last" value="1582103940286" />
+              <option name="times" value="464" />
             </ActionSummary>
           </value>
         </entry>
@@ -117,8 +117,8 @@
         <entry key="EditorCopy">
           <value>
             <ActionSummary>
-              <option name="last" value="1582102154357" />
-              <option name="times" value="60" />
+              <option name="last" value="1582104300177" />
+              <option name="times" value="64" />
             </ActionSummary>
           </value>
         </entry>
@@ -157,8 +157,8 @@
         <entry key="EditorEscape">
           <value>
             <ActionSummary>
-              <option name="last" value="1582028758264" />
-              <option name="times" value="2" />
+              <option name="last" value="1582103610951" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
@@ -189,8 +189,8 @@
         <entry key="EditorPaste">
           <value>
             <ActionSummary>
-              <option name="last" value="1582101653470" />
-              <option name="times" value="71" />
+              <option name="last" value="1582103739933" />
+              <option name="times" value="72" />
             </ActionSummary>
           </value>
         </entry>
@@ -245,8 +245,8 @@
         <entry key="Find">
           <value>
             <ActionSummary>
-              <option name="last" value="1582102154671" />
-              <option name="times" value="19" />
+              <option name="last" value="1582103934610" />
+              <option name="times" value="23" />
             </ActionSummary>
           </value>
         </entry>
@@ -285,8 +285,8 @@
         <entry key="GotoDeclaration">
           <value>
             <ActionSummary>
-              <option name="last" value="1582102651575" />
-              <option name="times" value="35" />
+              <option name="last" value="1582104007905" />
+              <option name="times" value="38" />
             </ActionSummary>
           </value>
         </entry>
@@ -346,6 +346,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="QuickImplementations">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582104192711" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="ReformatCode">
           <value>
             <ActionSummary>
@@ -365,8 +373,8 @@
         <entry key="Resume">
           <value>
             <ActionSummary>
-              <option name="last" value="1582102702159" />
-              <option name="times" value="85" />
+              <option name="last" value="1582104217444" />
+              <option name="times" value="90" />
             </ActionSummary>
           </value>
         </entry>
@@ -493,16 +501,16 @@
         <entry key="com.intellij.find.SearchReplaceComponent$11">
           <value>
             <ActionSummary>
-              <option name="last" value="1582102156552" />
-              <option name="times" value="7" />
+              <option name="last" value="1582103941505" />
+              <option name="times" value="10" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="com.intellij.find.editorHeaderActions.NextOccurrenceAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582101773869" />
-              <option name="times" value="60" />
+              <option name="last" value="1582103614425" />
+              <option name="times" value="62" />
             </ActionSummary>
           </value>
         </entry>
@@ -565,8 +573,8 @@
         <entry key="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582102704130" />
-              <option name="times" value="22" />
+              <option name="last" value="1582104214835" />
+              <option name="times" value="23" />
             </ActionSummary>
           </value>
         </entry>
