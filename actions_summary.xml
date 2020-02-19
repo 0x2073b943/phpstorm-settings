@@ -13,8 +13,8 @@
         <entry key="$Delete">
           <value>
             <ActionSummary>
-              <option name="last" value="1582034948791" />
-              <option name="times" value="4" />
+              <option name="last" value="1582114576835" />
+              <option name="times" value="6" />
             </ActionSummary>
           </value>
         </entry>
@@ -69,16 +69,16 @@
         <entry key="ActivateTerminalToolWindow">
           <value>
             <ActionSummary>
-              <option name="last" value="1582113184528" />
-              <option name="times" value="22" />
+              <option name="last" value="1582114503354" />
+              <option name="times" value="27" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="ChangesView.Refresh">
           <value>
             <ActionSummary>
-              <option name="last" value="1582113130514" />
-              <option name="times" value="2" />
+              <option name="last" value="1582114362313" />
+              <option name="times" value="10" />
             </ActionSummary>
           </value>
         </entry>
@@ -125,8 +125,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1582112748263" />
-              <option name="times" value="514" />
+              <option name="last" value="1582114396530" />
+              <option name="times" value="522" />
             </ActionSummary>
           </value>
         </entry>
@@ -173,8 +173,8 @@
         <entry key="EditorEnter">
           <value>
             <ActionSummary>
-              <option name="last" value="1582105332639" />
-              <option name="times" value="130" />
+              <option name="last" value="1582114460627" />
+              <option name="times" value="131" />
             </ActionSummary>
           </value>
         </entry>
@@ -597,16 +597,16 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582113193081" />
-              <option name="times" value="13" />
+              <option name="last" value="1582114442995" />
+              <option name="times" value="15" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582113126015" />
-              <option name="times" value="82" />
+              <option name="last" value="1582114568994" />
+              <option name="times" value="84" />
             </ActionSummary>
           </value>
         </entry>
@@ -717,8 +717,8 @@
         <entry key="org.jetbrains.plugins.terminal.TerminalView$1">
           <value>
             <ActionSummary>
-              <option name="last" value="1582007216154" />
-              <option name="times" value="2" />
+              <option name="last" value="1582114004857" />
+              <option name="times" value="8" />
             </ActionSummary>
           </value>
         </entry>
