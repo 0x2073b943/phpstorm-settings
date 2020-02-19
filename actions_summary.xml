@@ -77,8 +77,8 @@
         <entry key="CheckinProject">
           <value>
             <ActionSummary>
-              <option name="last" value="1582035550967" />
-              <option name="times" value="12" />
+              <option name="last" value="1582093182161" />
+              <option name="times" value="14" />
             </ActionSummary>
           </value>
         </entry>
@@ -277,8 +277,8 @@
         <entry key="Git.Pull">
           <value>
             <ActionSummary>
-              <option name="last" value="1582024595238" />
-              <option name="times" value="2" />
+              <option name="last" value="1582093155547" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
@@ -517,8 +517,8 @@
         <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582035595695" />
-              <option name="times" value="56" />
+              <option name="last" value="1582093379930" />
+              <option name="times" value="60" />
             </ActionSummary>
           </value>
         </entry>
@@ -594,11 +594,35 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="git4idea.ui.branch.GitBranchPopup$1">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582093141449" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="git4idea.ui.branch.GitBranchPopupActions$CompareAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582093376890" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="git4idea.ui.branch.GitBranchPopupActions$LocalBranchActions$CheckoutAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582024604207" />
-              <option name="times" value="3" />
+              <option name="last" value="1582093151229" />
+              <option name="times" value="4" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="git4idea.ui.branch.GitBranchPopupActions$RemoteBranchActions$CheckoutRemoteBranchAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582093170621" />
+              <option name="times" value="1" />
             </ActionSummary>
           </value>
         </entry>
