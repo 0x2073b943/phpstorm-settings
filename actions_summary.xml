@@ -61,24 +61,24 @@
         <entry key="$Undo">
           <value>
             <ActionSummary>
-              <option name="last" value="1582035548301" />
-              <option name="times" value="66" />
+              <option name="last" value="1582095303322" />
+              <option name="times" value="68" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="ActivateTerminalToolWindow">
           <value>
             <ActionSummary>
-              <option name="last" value="1582024564970" />
-              <option name="times" value="15" />
+              <option name="last" value="1582095769134" />
+              <option name="times" value="17" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="CheckinProject">
           <value>
             <ActionSummary>
-              <option name="last" value="1582093182161" />
-              <option name="times" value="14" />
+              <option name="last" value="1582095335443" />
+              <option name="times" value="16" />
             </ActionSummary>
           </value>
         </entry>
@@ -285,8 +285,8 @@
         <entry key="GotoDeclaration">
           <value>
             <ActionSummary>
-              <option name="last" value="1582034855657" />
-              <option name="times" value="30" />
+              <option name="last" value="1582095691778" />
+              <option name="times" value="31" />
             </ActionSummary>
           </value>
         </entry>
@@ -295,6 +295,14 @@
             <ActionSummary>
               <option name="last" value="1582028025198" />
               <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="Move">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582095298861" />
+              <option name="times" value="1" />
             </ActionSummary>
           </value>
         </entry>
@@ -349,16 +357,16 @@
         <entry key="RenameElement">
           <value>
             <ActionSummary>
-              <option name="last" value="1582009694784" />
-              <option name="times" value="1" />
+              <option name="last" value="1582095372397" />
+              <option name="times" value="13" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="Resume">
           <value>
             <ActionSummary>
-              <option name="last" value="1582017982431" />
-              <option name="times" value="70" />
+              <option name="last" value="1582095712276" />
+              <option name="times" value="71" />
             </ActionSummary>
           </value>
         </entry>
@@ -413,8 +421,8 @@
         <entry key="ToggleLineBreakpoint">
           <value>
             <ActionSummary>
-              <option name="last" value="1582034860313" />
-              <option name="times" value="22" />
+              <option name="last" value="1582095695059" />
+              <option name="times" value="24" />
             </ActionSummary>
           </value>
         </entry>
@@ -517,8 +525,8 @@
         <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582093379930" />
-              <option name="times" value="60" />
+              <option name="last" value="1582095771026" />
+              <option name="times" value="66" />
             </ActionSummary>
           </value>
         </entry>
@@ -549,8 +557,8 @@
         <entry key="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582034894441" />
-              <option name="times" value="11" />
+              <option name="last" value="1582095713237" />
+              <option name="times" value="13" />
             </ActionSummary>
           </value>
         </entry>
