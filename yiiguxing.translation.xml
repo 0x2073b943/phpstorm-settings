@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="internal" />
       <item value="mapping" />
       <item value="map" />
       <item value="Violation" />
@@ -50,13 +51,12 @@
       <item value="Sso sdk and api for creating user" />
       <item value="aa 855197 b 803277604299 e 41 c 192 f 686" />
       <item value="Options: '', static::ENCRYPTION_STARTTLS, or static::ENCRYPTION_SMTP" />
-      <item value="Be aware that in PHP &gt;= 5.6 this requires that the server's certificates are valid" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="118" />
+        <entry key="ENGLISH" value="120" />
         <entry key="DANISH" value="3" />
-        <entry key="RUSSIAN" value="119" />
+        <entry key="RUSSIAN" value="120" />
         <entry key="FRENCH" value="2" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="1" />
