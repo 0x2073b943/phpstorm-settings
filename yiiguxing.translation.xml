@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Requirement" />
+      <item value="Matches Password Requirements" />
       <item value="Embedded" />
       <item value="internal" />
       <item value="mapping" />
@@ -49,14 +51,12 @@
       <item value="normal" />
       <item value="find to name" />
       <item value="find to id" />
-      <item value="Sso sdk and api for creating user" />
-      <item value="aa 855197 b 803277604299 e 41 c 192 f 686" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="121" />
-        <entry key="DANISH" value="3" />
-        <entry key="RUSSIAN" value="121" />
+        <entry key="ENGLISH" value="123" />
+        <entry key="DANISH" value="4" />
+        <entry key="RUSSIAN" value="123" />
         <entry key="FRENCH" value="2" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="1" />
