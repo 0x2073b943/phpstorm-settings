@@ -4,7 +4,7 @@
     <property name="created">2019-09-28T19:20:09</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.2.3.0.0</property>
-    <property name="modified">2019-12-24T15:12:57</property>
+    <property name="modified">2020-03-24T16:57:31</property>
     <property name="originalScheme">_@user_One Dark</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
@@ -512,7 +512,7 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG">
       <value>
-        <option name="FOREGROUND" value="c678dd" />
+        <option name="FOREGROUND" value="a39bbe" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG_VALUE">
