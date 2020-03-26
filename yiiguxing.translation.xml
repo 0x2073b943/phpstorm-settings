@@ -1,7 +1,6 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="password restore" />
       <item value="Replace patterns to value" />
       <item value="конвертировать" />
       <item value="handler" />
@@ -51,12 +50,13 @@
       <item value="Options: '', static::ENCRYPTION_STARTTLS, or static::ENCRYPTION_SMTP" />
       <item value="Be aware that in PHP &gt;= 5.6 this requires that the server's certificates are valid" />
       <item value="Credentials Mismatch" />
+      <item value="authenticate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="117" />
+        <entry key="ENGLISH" value="116" />
         <entry key="DANISH" value="3" />
-        <entry key="RUSSIAN" value="117" />
+        <entry key="RUSSIAN" value="116" />
         <entry key="FRENCH" value="2" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="1" />

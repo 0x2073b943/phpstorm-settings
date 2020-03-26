@@ -7,8 +7,8 @@
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP local">
-        <phpinfo binary_type="PHP" php_cli="/usr/bin/php" path_separator=":" version="7.4.2">
-          <additional_php_ini>/etc/php/conf.d/custom.ini</additional_php_ini>
+        <phpinfo binary_type="PHP" php_cli="/usr/bin/php" path_separator=":" version="7.4.3">
+          <additional_php_ini />
           <configuration_file>/etc/php/php.ini</configuration_file>
           <configuration_options>
             <configuration_option name="include_path" value=".:" />
@@ -28,7 +28,6 @@
             <extension name="fileinfo" />
             <extension name="filter" />
             <extension name="hash" />
-            <extension name="iconv" />
             <extension name="json" />
             <extension name="libxml" />
             <extension name="mbstring" />
