@@ -1,7 +1,6 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="брак" />
       <item value="Requirement" />
       <item value="Matches Password Requirements" />
       <item value="Embedded" />
@@ -51,6 +50,7 @@
       <item value="parse" />
       <item value="normal" />
       <item value="find to name" />
+      <item value="find to id" />
     </histories>
     <option name="languageScores">
       <map>
