@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="команда циклу" />
+      <item value="команда группе" />
+      <item value="series" />
+      <item value="цикл" />
       <item value="шаблон" />
       <item value="Requirement" />
       <item value="Matches Password Requirements" />
@@ -47,16 +51,12 @@
       <item value="delete Dublicated Files" />
       <item value="hanlder" />
       <item value="$report" />
-      <item value="$is Duplicated" />
-      <item value="parse" />
-      <item value="normal" />
-      <item value="find to name" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="123" />
+        <entry key="ENGLISH" value="124" />
         <entry key="DANISH" value="4" />
-        <entry key="RUSSIAN" value="123" />
+        <entry key="RUSSIAN" value="124" />
         <entry key="FRENCH" value="2" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="1" />
