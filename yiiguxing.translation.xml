@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fill Trip Dtos" />
+      <item value="fill" />
       <item value="exclude" />
       <item value="команда циклу" />
       <item value="команда группе" />
@@ -49,14 +51,12 @@
       <item value="$is Duplicate Files" />
       <item value="Can not create folder" />
       <item value="groupe File By Vendor Code" />
-      <item value="delete Dublicated Files" />
-      <item value="hanlder" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="125" />
+        <entry key="ENGLISH" value="127" />
         <entry key="DANISH" value="4" />
-        <entry key="RUSSIAN" value="125" />
+        <entry key="RUSSIAN" value="126" />
         <entry key="FRENCH" value="2" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="1" />
@@ -65,6 +65,12 @@
     </option>
   </component>
   <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="primaryLanguage" value="RUSSIAN" />
+        <option name="useTranslateGoogleCom" value="true" />
+      </google-translate>
+    </option>
     <option name="ignoreRegExp" value="" />
   </component>
 </application>
