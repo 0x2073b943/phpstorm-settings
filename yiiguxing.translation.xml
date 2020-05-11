@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="объединение форматирующиъ методов в один метод" />
+      <item value="объединение в один метод" />
+      <item value="объединение" />
       <item value="рандомное создание записи" />
       <item value="выборка по диапазону" />
       <item value="диапазон сохраненного" />
@@ -48,9 +51,6 @@
       <item value="visibles" />
       <item value="visible" />
       <item value="invoice" />
-      <item value="Missing selected files" />
-      <item value="reciever" />
-      <item value="$exec Time Of One File In Seconds" />
     </histories>
     <option name="languageScores">
       <map>
