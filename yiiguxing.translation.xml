@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="exclude" />
       <item value="команда циклу" />
       <item value="команда группе" />
       <item value="series" />
@@ -50,13 +51,12 @@
       <item value="groupe File By Vendor Code" />
       <item value="delete Dublicated Files" />
       <item value="hanlder" />
-      <item value="$report" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="124" />
+        <entry key="ENGLISH" value="125" />
         <entry key="DANISH" value="4" />
-        <entry key="RUSSIAN" value="124" />
+        <entry key="RUSSIAN" value="125" />
         <entry key="FRENCH" value="2" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="1" />

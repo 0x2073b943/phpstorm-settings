@@ -1,17 +1,5 @@
 <application>
   <component name="ParameterNameHintsSettings">
-    <blacklists>
-      <blacklist language="TypeScript" />
-      <blacklist language="Angular HTML Template" />
-      <blacklist language="JavaScript" />
-      <blacklist language="PHP">
-        <removed pattern="" />
-      </blacklist>
-      <blacklist language="SQL" />
-    </blacklists>
-    <option id="angular.show.names.for.all.args" value="true" />
-    <option id="vuejs.show.names.for.all.args" value="true" />
-    <option id="js.only.show.names.for.all.args" value="true" />
     <option id="php.show.names.for.all.args" value="true" />
   </component>
 </application>
