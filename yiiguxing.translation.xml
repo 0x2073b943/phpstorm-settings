@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="токен истек" />
       <item value="test Login Deactivated User" />
       <item value="test Login When Deactivated" />
       <item value="test Login When Deactivate" />
@@ -50,13 +51,12 @@
       <item value="authenticated" />
       <item value="отчет" />
       <item value="unvisible Aside" />
-      <item value="is visible" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="131" />
+        <entry key="ENGLISH" value="132" />
         <entry key="DANISH" value="4" />
-        <entry key="RUSSIAN" value="130" />
+        <entry key="RUSSIAN" value="131" />
         <entry key="FRENCH" value="2" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="1" />
