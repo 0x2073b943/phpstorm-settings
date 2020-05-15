@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".env.local" type=".env file" />
+      <mapping pattern=".env.test" type=".env file" />
       <removed_mapping pattern=".env.*" approved="true" type=".env file" />
       <mapping pattern="JsonBodyParserMiddleware" type="PHP" />
       <mapping pattern="Шаблон" type="PLAIN_TEXT" />
