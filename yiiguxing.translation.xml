@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Failed" />
+      <item value="создать компанию администратором компании" />
+      <item value="test Create Company By Company Admin Failed" />
+      <item value="test Create Company By Company User Failure" />
       <item value="Indicates if the test database has been migrated" />
       <item value="fill Trip Dtos" />
       <item value="токен истек" />
@@ -47,16 +51,12 @@
       <item value="Data Replacer" />
       <item value="generate Report Data" />
       <item value="check-authentication" />
-      <item value="check-authentification" />
-      <item value="guested" />
-      <item value="authenticated" />
-      <item value="отчет" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="135" />
+        <entry key="ENGLISH" value="139" />
         <entry key="DANISH" value="4" />
-        <entry key="RUSSIAN" value="135" />
+        <entry key="RUSSIAN" value="139" />
         <entry key="FRENCH" value="2" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="1" />
