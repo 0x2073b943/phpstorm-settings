@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Seeding database" />
+      <item value="Seed database" />
       <item value="Заполните тестовыми данными" />
       <item value="заполните тестовыми данными" />
       <item value="Make .env.testing file and" />
@@ -49,14 +51,12 @@
       <item value="ncodes the raw password." />
       <item value="raw" />
       <item value="The encoded password" />
-      <item value="his is important if, at any given point, sensitive information like * the plain-text password is stored on this object." />
-      <item value="emoves sensitive data from the user" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="142" />
+        <entry key="ENGLISH" value="144" />
         <entry key="DANISH" value="4" />
-        <entry key="RUSSIAN" value="142" />
+        <entry key="RUSSIAN" value="144" />
         <entry key="FRENCH" value="2" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="1" />
