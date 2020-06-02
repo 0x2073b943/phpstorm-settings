@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Глобального исключения для апи,  " />
+      <item value="Добавление глобального исключения" />
       <item value="Middleware allows to prevent unexpected access to API documentation" />
       <item value="Edit to set the api's base path" />
       <item value="Add the passed interval to the current instance" />
@@ -49,14 +51,12 @@
       <item value="цикл" />
       <item value="шаблон" />
       <item value="Requirement" />
-      <item value="Matches Password Requirements" />
-      <item value="Embedded" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="155" />
+        <entry key="ENGLISH" value="156" />
         <entry key="DANISH" value="4" />
-        <entry key="RUSSIAN" value="155" />
+        <entry key="RUSSIAN" value="156" />
         <entry key="FRENCH" value="2" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="1" />
