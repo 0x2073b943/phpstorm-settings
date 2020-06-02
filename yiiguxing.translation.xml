@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="An instance validates successfully against this property if it validates successfully against at least one schema defined by this property's value." />
       <item value="Глобального исключения для апи,  " />
       <item value="Добавление глобального исключения" />
       <item value="Middleware allows to prevent unexpected access to API documentation" />
@@ -50,13 +51,12 @@
       <item value="series" />
       <item value="цикл" />
       <item value="шаблон" />
-      <item value="Requirement" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="156" />
+        <entry key="ENGLISH" value="157" />
         <entry key="DANISH" value="4" />
-        <entry key="RUSSIAN" value="156" />
+        <entry key="RUSSIAN" value="157" />
         <entry key="FRENCH" value="2" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="1" />
