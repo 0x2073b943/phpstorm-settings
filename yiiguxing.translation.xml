@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Specifies the subset of methods to mock, requiring each to exist in the class" />
       <item value="An instance validates successfully against this property if it validates successfully against at least one schema defined by this property's value." />
       <item value="Глобального исключения для апи,  " />
       <item value="Добавление глобального исключения" />
@@ -50,13 +51,12 @@
       <item value="команда группе" />
       <item value="series" />
       <item value="цикл" />
-      <item value="шаблон" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="157" />
+        <entry key="ENGLISH" value="158" />
         <entry key="DANISH" value="4" />
-        <entry key="RUSSIAN" value="157" />
+        <entry key="RUSSIAN" value="158" />
         <entry key="FRENCH" value="2" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="1" />
