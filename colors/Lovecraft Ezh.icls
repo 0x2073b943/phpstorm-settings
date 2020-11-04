@@ -4,7 +4,7 @@
     <property name="created">2020-11-04T22:32:21</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.2.3.0.0</property>
-    <property name="modified">2020-11-04T22:41:10</property>
+    <property name="modified">2020-11-04T22:50:35</property>
     <property name="originalScheme">Lovecraft</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -612,6 +612,21 @@
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
         <option name="FOREGROUND" value="e14c61" />
+      </value>
+    </option>
+    <option name="INLINE_PARAMETER_HINT">
+      <value>
+        <option name="FOREGROUND" value="7a7a7a" />
+      </value>
+    </option>
+    <option name="INLINE_PARAMETER_HINT_CURRENT">
+      <value>
+        <option name="FOREGROUND" value="5b5b5b" />
+      </value>
+    </option>
+    <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
+      <value>
+        <option name="FOREGROUND" value="5b5b5b" />
       </value>
     </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES">
