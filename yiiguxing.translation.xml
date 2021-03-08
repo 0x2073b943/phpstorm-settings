@@ -1,0 +1,76 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="Specifies the subset of methods to mock, requiring each to exist in the class" />
+      <item value="An instance validates successfully against this property if it validates successfully against at least one schema defined by this property's value." />
+      <item value="Глобального исключения для апи,  " />
+      <item value="Добавление глобального исключения" />
+      <item value="Middleware allows to prevent unexpected access to API documentation" />
+      <item value="Edit to set the api's base path" />
+      <item value="Add the passed interval to the current instance" />
+      <item value="if array passed, parameters will be extracted from it, the array may contains" />
+      <item value="test Update Company By Company Admin Not Owner Failed" />
+      <item value="test Update Company By Company Admin No N Owner Failed" />
+      <item value="тест обновления компании админимтратором компании не владельцем" />
+      <item value="тест обновления компании админимтратором компании" />
+      <item value="test Update Company By Company Admin Owner Success" />
+      <item value="символов" />
+      <item value="cbvjkjd" />
+      <item value="восемь" />
+      <item value="8" />
+      <item value="Короче 8 символов" />
+      <item value="Короче" />
+      <item value="не правильный пароль" />
+      <item value="не правильный" />
+      <item value="Seeding database" />
+      <item value="Seed database" />
+      <item value="Заполните тестовыми данными" />
+      <item value="заполните тестовыми данными" />
+      <item value="Make .env.testing file and" />
+      <item value="Заполни данными" />
+      <item value="Failed" />
+      <item value="создать компанию администратором компании" />
+      <item value="test Create Company By Company Admin Failed" />
+      <item value="test Create Company By Company User Failure" />
+      <item value="Indicates if the test database has been migrated" />
+      <item value="fill Trip Dtos" />
+      <item value="токен истек" />
+      <item value="test Login Deactivated User" />
+      <item value="test Login When Deactivated" />
+      <item value="test Login When Deactivate" />
+      <item value="склад" />
+      <item value="объединение форматирующиъ методов в один метод" />
+      <item value="объединение в один метод" />
+      <item value="объединение" />
+      <item value="рандомное создание записи" />
+      <item value="выборка по диапазону" />
+      <item value="диапазон сохраненного" />
+      <item value="fill" />
+      <item value="exclude" />
+      <item value="команда циклу" />
+      <item value="команда группе" />
+      <item value="series" />
+      <item value="цикл" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="ENGLISH" value="158" />
+        <entry key="DANISH" value="4" />
+        <entry key="RUSSIAN" value="158" />
+        <entry key="FRENCH" value="2" />
+        <entry key="LATIN" value="1" />
+        <entry key="ROMANIAN" value="1" />
+        <entry key="YIDDISH" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="primaryLanguage" value="RUSSIAN" />
+        <option name="useTranslateGoogleCom" value="true" />
+      </google-translate>
+    </option>
+    <option name="ignoreRegExp" value="" />
+  </component>
+</application>
