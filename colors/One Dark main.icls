@@ -4,7 +4,7 @@
     <property name="created">2019-09-28T19:20:09</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.2.3.0.0</property>
-    <property name="modified">2021-03-08T17:27:33</property>
+    <property name="modified">2021-03-10T08:50:01</property>
     <property name="originalScheme">_@user_One Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -233,9 +233,7 @@
       </value>
     </option>
     <option name="CONSOLE_ERROR_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="e06c75" />
-      </value>
+      <value />
     </option>
     <option name="CONSOLE_GRAY_OUTPUT">
       <value>
@@ -283,7 +281,7 @@
     </option>
     <option name="CONSOLE_RED_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="e06c75" />
+        <option name="FOREGROUND" value="e78a8a" />
       </value>
     </option>
     <option name="CONSOLE_SYSTEM_OUTPUT">
@@ -1035,7 +1033,12 @@
     </option>
     <option name="LOG_ERROR_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="e06c75" />
+        <option name="FOREGROUND" value="9a424c" />
+      </value>
+    </option>
+    <option name="LOG_EXPIRED_ENTRY">
+      <value>
+        <option name="FOREGROUND" value="a84f4f" />
       </value>
     </option>
     <option name="LOG_INFO_OUTPUT">
