@@ -1,5 +1,6 @@
 <application>
   <component name="GeneralSettings">
+    <option name="browserPath" value="/usr/bin/google-chrome-stable" />
     <option name="showTipsOnStartup" value="false" />
   </component>
 </application>
