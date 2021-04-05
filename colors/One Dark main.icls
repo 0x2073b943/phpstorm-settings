@@ -4,7 +4,7 @@
     <property name="created">2019-09-28T19:20:09</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.2.3.0.0</property>
-    <property name="modified">2021-04-05T07:34:55</property>
+    <property name="modified">2021-04-05T08:03:37</property>
     <property name="originalScheme">_@user_One Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -537,7 +537,7 @@
     <option name="DEFAULT_IDENTIFIER" baseAttributes="TEXT" />
     <option name="DEFAULT_INSTANCE_FIELD">
       <value>
-        <option name="FOREGROUND" value="e06c75" />
+        <option name="FOREGROUND" value="abb2be" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_METHOD">
@@ -1273,6 +1273,11 @@
     <option name="PHP_IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="e4bf80" />
+      </value>
+    </option>
+    <option name="PHP_NAMED_ARGUMENT">
+      <value>
+        <option name="FOREGROUND" value="779cc4" />
       </value>
     </option>
     <option name="PHP_PARAMETER">
