@@ -10,11 +10,17 @@
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
   </component>
   <component name="InlayHintsSettings">
-    <option name="lastViewedProviderKeyId" value="microservices.url.path.inlay.hints" />
+    <option name="lastViewedProviderKeyId" value="ts.type.hints" />
     <settingsMapElement>
+      <TypeScript.ts.chain.hints>
+        <Settings>
+          <option name="uniqueTypeCount" value="1" />
+        </Settings>
+      </TypeScript.ts.chain.hints>
       <TypeScript.ts.type.hints>
         <Settings>
           <option name="showForFunctions" value="true" />
+          <option name="showForShorthandFunctions" value="true" />
         </Settings>
       </TypeScript.ts.type.hints>
     </settingsMapElement>
