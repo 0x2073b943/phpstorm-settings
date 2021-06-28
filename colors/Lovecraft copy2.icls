@@ -1,16 +1,16 @@
-<scheme name="Lovecraft" version="142" parent_scheme="Default">
+<scheme name="Lovecraft copy2" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2019-08-10T13:01:02</property>
+    <property name="created">2020-01-09T14:57:39</property>
     <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2019.2.0.0</property>
-    <property name="modified">2021-06-28T11:36:51</property>
-    <property name="originalScheme">Lovecraft</property>
+    <property name="ideVersion">2019.3.1.0.0</property>
+    <property name="modified">2021-06-28T11:41:03</property>
+    <property name="originalScheme">Lovecraft copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
-  <option name="EDITOR_FONT_SIZE" value="14" />
-  <option name="EDITOR_FONT_NAME" value="Consolas" />
-  <option name="CONSOLE_FONT_NAME" value="JetBrains Mono" />
+  <option name="EDITOR_FONT_SIZE" value="18" />
+  <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
+  <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="78c850" />
@@ -827,6 +827,12 @@
         <option name="FOREGROUND" value="a7dbd8" />
       </value>
     </option>
+    <option name="PHP_DOC_TAG">
+      <value>
+        <option name="FOREGROUND" value="b48ae3" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="PHP_EXEC_COMMAND_ID" baseAttributes="DEFAULT_STRING" />
     <option name="PHP_HEREDOC_CONTENT">
       <value />
@@ -841,13 +847,23 @@
     </option>
     <option name="PHP_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="b4b4b4" />
+        <option name="FOREGROUND" value="b48ae3" />
+      </value>
+    </option>
+    <option name="PHP_NUMBER">
+      <value>
+        <option name="FOREGROUND" value="b48ae3" />
       </value>
     </option>
     <option name="PHP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="PHP_SCRIPTING_BACKGROUND">
       <value>
         <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="PHP_STATIC_METHOD">
+      <value>
+        <option name="FOREGROUND" value="b48ae3" />
       </value>
     </option>
     <option name="PHP_TAG">
