@@ -1,6 +1,6 @@
 <application>
   <component name="org.intellij.sdk.logic.YoProgressBarUiState">
-    <option name="currentBackgroundPath" value="/Backgrounds/rainbow.png" />
-    <option name="currentIconPath" value="/Gifs/NyanCat.gif" />
+    <option name="currentBackgroundPath" value="/Backgrounds/minecraft.png" />
+    <option name="currentIconPath" value="/Gifs/minecraft.gif" />
   </component>
 </application>
